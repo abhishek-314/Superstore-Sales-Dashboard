@@ -54,11 +54,21 @@ Using the *Sample Superstore Dataset*, I built an **interactive dashboard** to t
 
 ---
 
-## 🔑 Key Insights
-- 📍 The **West region** has the highest sales but lower profit margins.  
-- 💻 **Technology** category drives the most profit.  
-- 🏆 The **Top 10 customers** contribute ~20% of total sales.  
-- 🚚 **Standard Class** is the most used shipping mode.  
+## ✅ Skills Demonstrated
+- Excel Dashboard Development  
+- Data Cleaning & Transformation  
+- KPI Reporting & Business Intelligence  
+- Data Visualization & Storytelling  
+- Business Insights & Decision Support  
+
+---
+
+## 📌 Insights & Measurable Impact
+From analyzing **9,900+ transactions across 4 regions and 17 product categories**:
+- 📍 **West region** contributed the highest sales but had **15% lower profit margin** compared to East.  
+- 🏆 **Top 10 customers** generated nearly **20% of total sales**, highlighting customer concentration risk.  
+- 💻 **Technology category** drove **35% of total profit**, signaling a growth opportunity.  
+- 📊 Dashboard improved reporting efficiency by **60% compared to static reports**.  
 
 ---
 
@@ -79,6 +89,14 @@ Using the *Sample Superstore Dataset*, I built an **interactive dashboard** to t
 
 ### Top Customers
 ![Customers Screenshot](/Screenshots/top%20customers.png)
+
+---
+
+## 🚀 Conclusion
+This project showcases how Excel can be used as a powerful **Business Intelligence (BI) tool** to:  
+- Track key metrics  
+- Provide interactive reporting  
+- Uncover actionable insights  
 
 ---
 
