@@ -68,17 +68,17 @@ Using the *Sample Superstore Dataset*, I built an **interactive dashboard** to t
 ### Dashboard Overview
 ![Dashboard Screenshot](/Screenshots/dashboard.png)
 
-### Tree map
-![Tree map Screenshot](/screenshots/tree%20map.png)
+### Tree Map
+![Tree map Screenshot](/Screenshots/tree%20map.png)
 
 ### Performance by Categories
-![Trend Screenshot](/screenshots/performance%20by%20categories.png)
+![Trend Screenshot](/Screenshots/performance%20by%20categories.png)
 
 ### Regional Distribution
-![Region Screenshot](/screenshots/sales%20and%20profit%20by%20region.png)
+![Region Screenshot](/Screenshots/sales%20and%20profit%20by%20region.png)
 
 ### Top Customers
-![Customers Screenshot](/screenshots/top%20customers.png)
+![Customers Screenshot](/Screenshots/top%20customers.png)
 
 ---
 
